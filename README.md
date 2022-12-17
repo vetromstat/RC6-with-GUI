@@ -1,5 +1,5 @@
 # RC6-with-GUI
-Pure implication of RC6 cipher with GUI on Qt 
+Pure implimentation of RC6 cipher with GUI on Qt 
 
 Make sure files are in the same folder. 
 
