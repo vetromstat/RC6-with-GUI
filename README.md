@@ -1,13 +1,21 @@
 # RC6-with-GUI
 Pure implication of RC6 cipher with GUI on Qt 
 
+Make sure files are in the same folder. 
+
+Do not manually change rcdes file.It was generated in Qt Designer.(From ui file)
+
+Run rc to work in console.If you running rc, change some variables in main function(like urls to files you need to encrypt/decrypt) 
+
+Run rcfront to work with GUI. No manual changes needed, except for icons urls. 
+
 In order to show images changes urls in border images
 
 Authors of images:
 
-Qicon -  <a href="https://www.flaticon.com/ru/free-icons/" title="шифрование иконки">Шифрование иконки от Freepik - Flaticon</a>
+Qicon -  <a href="https://www.flaticon.com/free-icons/encryption" title="encryption icons">Encryption icons created by Freepik - Flaticon</a>
 
-file  -  <a href="https://www.flaticon.com/ru/free-icons/" title=" иконки"> иконки от Kiranshastry - Flaticon</a>
+file  - <a href="https://www.flaticon.com/free-icons/folder" title="folder icons">Folder icons created by Freepik - Flaticon</a>
 
 complete  -  <a href="https://www.flaticon.com/free-icons/complete" title="complete icons">Complete icons created by manshagraphics - Flaticon</a>
 
